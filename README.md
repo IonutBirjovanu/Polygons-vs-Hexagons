@@ -4,7 +4,7 @@ A OpenGL-powered graphical application inspired by the classic Plants vs. Zombie
 ## Overview
 The game uses the mouse cursor as the user input method. The user has a simple interface that consists of four color-coded shooters, each costing a set amount of stars, a 3x3 grid of green squares where he can place the shooters (if he has enough stars for them) and a dashboard displaying the lives left (starts with 3, game is over when all 3 are lost) and the number of stars the user has gathered (he starts with 5 and can gather to a maximum of 9).
 
-### These are the user inputs of the game:
+### User inputs in the game:
 
 **1) Place Shooter:** Left-Click to select a type of shooter and plant it on a green square, or drag-and-drop it on the square.
 
